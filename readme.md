@@ -1,8 +1,16 @@
 # Web Contact Form
 
-## Accessing form
+## Set up
 
-Once cloned and set up, the form can be reached at `http://127.0.0.1:8000/email/`
+```
+git clone https://github.com/ambidextrous/webContactFormTask
+
+python manage.py migrate
+
+python manage.py runserver
+```
+
+The web contact form can then be reached at `http://127.0.0.1:8000/email/`
 
 ## Screenshots
 
