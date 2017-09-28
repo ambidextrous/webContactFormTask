@@ -6,7 +6,7 @@ Once cloned and set up, the form can be reached at `http://127.0.0.1:8000/email/
 
 ## Screenshots
 
-![Screenshot of web contact form](https://github.com/ambidextrous/webContactFormTast/blob/master/contact.png "Web contact form")
+![Screenshot of web contact form](https://github.com/ambidextrous/webContactFormTask/blob/master/contact.png "Web contact form")
 
 Web contact form
 
